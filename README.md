@@ -118,6 +118,8 @@ server_socket.close()
 
 
 ### SERVER:
+![Screenshot 2025-04-29 133916](https://github.com/user-attachments/assets/fdb1d5e2-9342-46f1-b843-68c21aac4a1e)
+
 
 
 
